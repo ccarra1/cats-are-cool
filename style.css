@@ -1,0 +1,7 @@
+@font-face {
+    font-family:"Bitcount Grid Double";
+    src:url(fonts/BitcountGridDouble-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
+}
+h1 {
+    font-family:"Bitcount Grid Double", cursive;
+}
